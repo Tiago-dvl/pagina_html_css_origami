@@ -1,0 +1,17 @@
+-Estruturar o html 
+-Identificar e importar o CSS
+-Baixar e Inserir as imagens sobre origami
+-Inserir ícone pagina barra suyperior
+-Editar conteúdo
+-Passar pente fino
+-Inserir efeitos com javascript
+
+--------------------------------------------
+#CSS
+-identificar as classes e organizar
+-mudar tipo de fonte e cor (tudo)
+-mudar cor do footer
+
+
+
+
